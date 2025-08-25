@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @f-ouimet
-- I'm currently a student in the fields of computer science, electronics and embedded systems.
+- I'm currently a student interested in the fields of computer science, electronics and embedded systems.
 - Will be using github mainly for small repos and projects
 
 <!---
